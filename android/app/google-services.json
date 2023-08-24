@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968852987477",
+    "project_id": "know-your-car-97e69",
+    "storage_bucket": "know-your-car-97e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968852987477:android:ff940925edba832f73bedc",
+        "android_client_info": {
+          "package_name": "com.example.know_your_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968852987477-1cppp3ttc24n7p1tikuqjr9e19mb4o70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqhpsMkAjddc4eWGOudPMGi61ZxqP5yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968852987477-1cppp3ttc24n7p1tikuqjr9e19mb4o70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
